@@ -18,7 +18,7 @@ const Hero = () => (
       </SectionTitle>
 
       <SectionText>
-        Believe In: "The Success That Comes After The Hardwork Gives The Best
+        Believe In: "Success That Comes After The Hardwork Gives The Best
         Taste."
       </SectionText>
     </LeftSection>
