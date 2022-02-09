@@ -52,10 +52,10 @@ const Technologies = () => (
       <ListItem>
         <DiZend size="3rem" />
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Mobile Development</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            React-Native
           </ListParagraph>
         </ListContainer>
       </ListItem>
